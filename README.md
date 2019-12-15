@@ -1,6 +1,6 @@
-# DeepRes-Video-Summarization
 DeepReS: A Deep Learning-based Video Summarization Strategy for Resource-Constrained Industrial Surveillance Scenarios
 =======
+
 ## Paper
 https://ieeexplore.ieee.org/document/8815938
 
