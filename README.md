@@ -5,12 +5,35 @@ A Deep Learning-based Video Summarization Strategy for Resource-Constrained Indu
 https://ieeexplore.ieee.org/document/8815938
 
 ## Requirements
+- python v >= 3.5
 - sklearn
-- cv2 >= 3.4.1
+- cv2 v >= 3.4.1
 - numpy
 - caffe
 - scipy
 - glob, os
+
+=======
+The Python implementation of this paper has some prerequisites that are necassary for running the code.
+The two most important dependencies are: OpenCV >= 3.4.1 and Caffe (deep learning framework).
+
+OpenCV can be easily installed by following the below links:
+- https://jeanvitor.com/cpp-opencv-windonws10-installing/
+- https://docs.opencv.org/3.4.3/d3/d52/tutorial_windows_install.html
+
+These are links for pre-built OpenCV libraries.
+
+Caffe building is a little bit hard and you need to follow up a straight forward tutorial from YouTube. 
+
+Here is the official caffe installation page, which you may find hard to follow, but do not worry I will also share a tutorial link
+- https://caffe.berkeleyvision.org/installation.html
+- https://github.com/BVLC/caffe/tree/windows
+
+Here is the YouTube link:
+
+- https://www.youtube.com/watch?v=nrzAF2sxHHM
+
+Furthermore, you need to install scikit-learn, scipy, and numpy which are easy to install and can be done through "pip" command.
 
 # Repository Explaination
 There are total three Python script files and two required folders [Coarse-refine, Candidate-keyframes] to run the code in this repository (Explained alphabetically).
