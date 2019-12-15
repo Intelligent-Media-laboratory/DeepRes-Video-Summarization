@@ -13,7 +13,7 @@ https://ieeexplore.ieee.org/document/8815938
 - scipy
 - glob, os
 
-## How to install the requirements and run the code
+## How to install the requirements and run the code?
 The Python implementation of this paper has some prerequisites that are necassary for running the code.
 The two most important dependencies are: OpenCV >= 3.4.1 and Caffe (deep learning framework).
 
