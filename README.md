@@ -18,7 +18,7 @@ It processes the output frames from the first Python script, apply matching dist
 ### 3. keyframes_generation.py
 
 This code is borrowed from:
-- https://github.com/tanveer-hussain/Embedded-Vision-for-MVS
+https://github.com/tanveer-hussain/Embedded-Vision-for-MVS
 and readers are suggested to tune their thresholds as per their requirements, and to generate skims of an input video, one can directly consider the candidate keyframes.
 
 
