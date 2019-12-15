@@ -2,7 +2,7 @@ DeepReS: A Deep Learning-based Video Summarization Strategy for Resource-Constra
 =======
 
 ## Paper
-https://ieeexplore.ieee.org/document/8815938
+The research paper is accepted for publication and hopefully it will be online soon.
 
 ## Requirements
 - python v >= 3.5
@@ -73,6 +73,8 @@ Hussain, Tanveer, Khan Muhammad, Amin Ullah, Zehong Cao, Sung Wook Baik, and Vic
 
 K. Muhammad, T. Hussain, M. Tanveer, G. Sannino and V. H. C. de Albuquerque, "Cost-Effective Video Summarization using Deep CNN with Hierarchical Weighted Fusion for IoT Surveillance Networks," in IEEE Internet of Things Journal.
 doi: 10.1109/JIOT.2019.2950469
+
+T. Hussain, K. Muhammad, J. D. Ser, S. W. Baik, and V. H. C. d. Albuquerque, "Intelligent Embedded Vision for Summarization of Multi-View Videos in IIoT," IEEE Transactions on Industrial Informatics, pp. 1-1, 2019.
 </code>
 </pre>
 
