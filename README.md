@@ -2,7 +2,7 @@ DeepReS: A Deep Learning-based Video Summarization Strategy for Resource-Constra
 =======
 
 ## Paper
-The research paper is accepted for publication and hopefully it will be online soon.
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936419
 
 ## Requirements
 - python v >= 3.5
@@ -59,7 +59,10 @@ and readers are suggested to tune their thresholds as per their requirements, an
 # Citation
 <pre>
 <code>
-The paper is accepted and soon it will be online.
+K. Muhammad, H. Tanveer, J. Del Ser, V. Palade and V. H. C. De Albuquerque, "DeepReS: A Deep Learning-based Video Summarization Strategy for Resource-Constrained Industrial Surveillance Scenarios," in IEEE Transactions on Industrial Informatics.
+doi: 10.1109/TII.2019.2960536
+keywords: {Big Data;Computer Vision;Deep Learning;Video Summarization;IIoT;Resource-Constrained Devices},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8936419&isnumber=4389054
 </code>
 </pre>
 
